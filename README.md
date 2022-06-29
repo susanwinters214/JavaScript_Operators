@@ -1,0 +1,1 @@
+Just another exercise for Coding Bootcamp class
